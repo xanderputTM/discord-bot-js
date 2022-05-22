@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xanderput/DiscordBotJS.git"
+    "url": "git+https://github.com/xanderputTM/discord-bot-js.git"
   },
   "author": "Xander Put",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xanderput/DiscordBotJS/issues"
+    "url": "https://github.com/xanderputTM/discord-bot-js/issues"
   },
-  "homepage": "https://github.com/xanderput/DiscordBotJS#readme",
+  "homepage": "https://github.com/xanderputTM/discord-bot-js/blob/main/README.md",
   "dependencies": {
     "discord.js": "^13.6.0",
     "pg": "^8.7.3"
